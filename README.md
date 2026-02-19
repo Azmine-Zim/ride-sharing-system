@@ -376,12 +376,6 @@ Contributions are welcome! Please feel free to submit a Pull Request. For major 
 
 This project is open source and available under the [MIT License](LICENSE).
 
-## 👨‍💻 Author
-
-**3rd Year Software Engineering Student**
-- 🎓 Showcasing OOP mastery through practical application
-- 💻 Building production-ready features with best practices
-- 🌟 Open to collaboration and feedback
 
 ## 📬 Contact & Contribution
 
