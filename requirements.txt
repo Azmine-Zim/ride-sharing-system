@@ -1,0 +1,11 @@
+# Ride Sharing System - Requirements
+# No external dependencies required - uses only Python standard library
+
+# Minimum Python version: 3.7
+# Tested on Python 3.7+
+
+# Standard library modules used:
+# - datetime
+# - random
+# - os
+# - abc (Abstract Base Classes)
